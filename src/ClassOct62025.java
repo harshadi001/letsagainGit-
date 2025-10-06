@@ -13,7 +13,7 @@ public class ClassOct62025{
 	// To maximize browser
 	driver.manage().window().maximize();
 	// To open Naukri website with multiple windows
-	driver.get("http://www.indeed.com/");
+	driver.get("http://www.myntra.com/");
 	// It will return the parent window name as a String
 	String mainWindow=driver.getWindowHandle();
 	// It returns no. of windows opened by WebDriver and will return Set of Strings
