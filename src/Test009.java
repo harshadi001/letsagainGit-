@@ -9,3 +9,7 @@ public class Test009 {
 	
 
 }
+
+{
+let = "Hello harsh lets do coding "
+}
